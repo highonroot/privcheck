@@ -39,6 +39,12 @@ PrivCheck automates those checks while keeping the methodology simple, transpare
 
 ---
 
+## Related Project
+
+- [ctf-writeups](https://github.com/highonroot/ctf-writeups) — Linux PrivEsc writeups and notes that inspired the methodology used by PrivCheck.
+
+---
+
 ## Installation
 
 ```bash
