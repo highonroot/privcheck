@@ -78,4 +78,3 @@ Show remediation guidance:
 
 - Methodology: [docs/methodology.md](docs/methodology.md)
 - Roadmap: [docs/roadmap.md](docs/roadmap.md)
-- Example outputs and sample findings: [examples/](examples/)
